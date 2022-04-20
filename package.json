@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "format": "prettier ./**.html --write --print-width=130"
+  },
+  "devDependencies": {
+    "prettier": "^2.6.2"
+  },
+  "private": true
+}
